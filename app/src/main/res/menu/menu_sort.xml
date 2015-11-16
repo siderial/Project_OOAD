@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.undine.project_ooad.MainActivity">
+
+
+    <item
+        android:id="@+id/postTime"
+        android:title="@string/sort_by_postDate" />
+
+    <item
+        android:id="@+id/alpha"
+        android:title="@string/sort_by_alphabet" />
+
+    <item
+        android:id="@+id/rate"
+        android:title="@string/sort_by_rate" />
+
+    <item
+        android:id="@+id/eventStart"
+        android:title="@string/sort_by_startDate" />
+
+
+</menu>
